@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.wholecontainer{
+    padding: 50px 1px;
+    background-image: url(images/businessman-pointing-his-presentation-futuristic-digital-screen.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+input{
+    caret-color: red;
+    
+}
+
+.container{
+    text-align: center;
+    margin: 20px 500px;
+    height: 80%;
+    width: 35%;
+    border-bottom: 5px;
+   border-radius: 1%;
+   border-style: outset;
+   background-color: white;
+}
+#heading{
+     
+     padding: 20px 5px;
+     margin: 20px 200px;
+    height: 20%;
+    width: 10%;
+    
+    
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
+    
+    
+   
+   
+    
+    
+}
+#fullname{
+    padding: 20px 5px;
+    margin: 25px 30px;
+    height: 20%;
+    width: 60%;
+    background-color: aliceblue;
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+    
+    
+   
+    
+
+}
+#email{
+    padding: 20px 5px;
+    margin: 5px 30px;
+    height: 20%;
+    width: 60%;
+    background-color: aliceblue;
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+   
+}
+#password{
+    padding: 20px 5px;
+    margin: 25px 30px;
+    height: 20%;
+    width: 60%;
+    background-color: aliceblue;
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+  
+}
+#submit{
+    height: 40px;
+    width: 100px;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    font-style: oblique;
+    font-size: larger;
+    font-weight: bold;
+   
+}
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.login{
+    font-weight: bold;
+    font-size: large;
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+}
+h4{
+    font-family: sans-serif;
+}
